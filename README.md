@@ -5,6 +5,8 @@
  - Gezgin Satıcı Problemi-Genetik Algoritma-Teorik Yaklaşım Uygulamasını
  - İki Konum Arasındaki Mesafe, Sürüş Mesafesi ve Sürenin Gezgin Satıcı Problemi Genetik Algoritma Yöntemi İle Hesaplanmasını
  - Gezgin Satıcı Probleminin Basit Genetik Algoritma İle Çözülmesi (Populer Travelling Santa Örnek Verisi ile Dumbest ( Aptal Yaklaşımlarla İlerleme) Uygulamasını
- - Gezgin Satıcı Probleminin En Yakın Komşuluk Algorithması ile / Greedy Çözüme Ulaştırılması-Genetik Algortima ile Aynı Veri Setine Sahip Çalışmadır.(Populer Harita Gezgin Santa Harita Verileri Kullanılmıştır)   içermektedir.
+ - Gezgin Satıcı Probleminin En Yakın Komşuluk Algorithması ile / Greedy Çözüme Ulaştırılması-Genetik Algortima ile Aynı Veri Setine Sahip Çalışmadır.(Populer Harita Gezgin Santa Harita Verileri Kullanılmıştır)   
+# içermektedir.
+# by M. Kutlu ŞENGÜL
  
  
