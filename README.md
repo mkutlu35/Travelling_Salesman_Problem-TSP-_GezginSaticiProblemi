@@ -1,5 +1,6 @@
 # Travelling_Salesman_Problem-TSP-_GezginSaticiProblemi
 # Bu uygulama Türk Öğrencilerin ( Türkçe detaylı) kişisel becerilerini arttırmak ve Türkçe eğitim eko-sistemine katkı sağlamak amacıyla tarafımca Python dilinde hazırlanmış Travelling Salesman Problem ( Gezgin Satıcı Problemi ) Optimizasyn uygulama ve çalışmasıdır.Dökümante edilmiştir.
+# Popüler veri setleri kullanılmıştır: (Dünya başkenleri GIS (lattitude,longtitute), Santa Harita Verileri, teorik uygulaada ( veri seti oluşturma (X,Y))
 # Çalışma ;
  - Traveling Salesman Probleminin Jupyter Lab, Python 3 ile Uygulanması-Teorik Yalın Yaklaşım Metot Uygulamasını
  - Gezgin Satıcı Problemi-Genetik Algoritma-Teorik Yaklaşım Uygulamasını
